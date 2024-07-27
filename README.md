@@ -194,4 +194,3 @@ Should you have any question, please contact: heyulin@nudt.edu.cn
 
 This work builds on previous works' code base such as [mmdetection](http://github.com/open-mmlab/mmdetection/tree/dev-3.x), [UnSniffer](https://github.com/Went-Liang/UnSniffer), [GroundingDino](https://github.com/IDEA-Research/GroundingDINO.git). Please consider citing these works as well.
 
-"# AD-OWOD" 

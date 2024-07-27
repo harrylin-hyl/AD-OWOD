@@ -1,0 +1,1 @@
+nvidia-docker run -it -p 7080:7090 -v /data/heyulin/workdir/CODA/AD-OWOD:/workspace/projects/CODA/AD-OWOD -v /data/heyulin/workdir/data:/workspace/projects/CODA/AD-OWOD/data --user root --shm-size 16G grounding-dino-mmdet:v1
